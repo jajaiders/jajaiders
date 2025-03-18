@@ -13,7 +13,7 @@ Let’s innovate together! 🤝
     
 | Contact |
 |---------|
-rnovajaider@gmail.com |
+jaiderrn.dev@gmail.com |
 
 <!--
   <a href="#" target="_blank">
