@@ -4,8 +4,8 @@ I specialize in crafting fast, scalable, and secure web applications using Next.
 🚀 Whether it’s optimizing performance, building seamless UIs, or leveraging cloud services, I strive to create top-notch digital experiences.
 Let’s innovate together! 🤝
 
-<div>
 ## 📫 Connect with me:
+<div>
 <p align="left">
 <!--   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -22,8 +22,8 @@ rnovajaider@gmail.com |
 </p>
 </div>
 
-<div>
 ### 🛠 Languages and Tools:
+<div>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -55,8 +55,8 @@ rnovajaider@gmail.com |
 </p>
 </div>
 
-<div>
 ## 📊 GitHub Stats:
+<div>
   
   <img src="https://github-readme-stats.vercel.app/api?username=jajaiders&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
 
