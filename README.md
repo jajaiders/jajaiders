@@ -1,16 +1,19 @@
 # Hi 👋, I'm Jaider Ramirez Nova
 ### Software Engineer | Full Stack Developer | Building scalable web applications
 
-## 🌐 Connect with me:
+## 📫 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="#" target="_blank"> <!-- GitHub -->
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://twitter.com/TU_USUARIO" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="#" target="_blank"> <!-- LinkedIn -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://TU_PORTAFOLIO.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="Portafolio" height="30" width="40" />
+  <a href="#" target="_blank"> <!-- Twitter -->
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="#" target="_blank"> <!-- Portfolio -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
