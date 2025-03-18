@@ -1,5 +1,8 @@
 # Hi 👋, I'm Jaider Ramirez Nova
-### Software Engineer | Full Stack Developer | Building scalable web applications
+💻 Software Engineer | Full Stack Developer
+I specialize in crafting fast, scalable, and secure web applications using Next.js, TypeScript, and AWS.
+🚀 Whether it’s optimizing performance, building seamless UIs, or leveraging cloud services, I strive to create top-notch digital experiences.
+Let’s innovate together! 🤝
 
 ## 📫 Connect with me:
 <p align="left">
