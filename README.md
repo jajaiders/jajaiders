@@ -2,9 +2,17 @@
 ### Software Engineer | Full Stack Developer | Building scalable web applications
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/TU_USUARIO" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/TU_USUARIO" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://TU_PORTAFOLIO.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="Portafolio" height="30" width="40" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,8 +27,17 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Profile Views](https://komarev.com/ghpvc/?username=jajaiders&color=blue)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jajaiders&color=blue" alt="Profile Views"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jajaiders&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jajaiders&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajaiders&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajaiders&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+## 🚀 Projects
+**Coming soon...** Exciting projects are on the way! Stay tuned.
