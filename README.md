@@ -7,7 +7,7 @@ Let’s innovate together! 🤝
 ## 📫 Connect with me:
 <div>
 <p align="left">
-  <a href="www.linkedin.com/in/jaiderrn-dev">
+  <a href="https://linkedin.com/in/jaiderrn-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
     
