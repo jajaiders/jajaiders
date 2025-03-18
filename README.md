@@ -23,8 +23,7 @@ rnovajaider@gmail.com |
 </div>
 
 ### 🛠 Languages and Tools:
-<div>
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -53,7 +52,6 @@ rnovajaider@gmail.com |
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
-</div>
 
 ## 📊 GitHub Stats:
 <div>
