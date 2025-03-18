@@ -49,10 +49,12 @@
 </p>
 
 ## 📊 GitHub Stats:
-<div align="center">
+<div>
   
   <img src="https://github-readme-stats.vercel.app/api?username=jajaiders&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
-  
+
+   <br>
+   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jajaiders&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
 
   <br>
