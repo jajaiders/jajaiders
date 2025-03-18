@@ -12,7 +12,7 @@ Let’s innovate together! 🤝
     
 | Contact |
 |---------|
-(mailto:tuemail@gmail.com) tuemail@gmail.com |
+rnovajaider@gmail.com |
 
 <!--
   <a href="#" target="_blank">
