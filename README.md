@@ -10,8 +10,7 @@ Let’s innovate together! 🤝
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> -->
  <a href="mailto:rnovajaider@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    tuemail@gmail.com
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rnovajaider@gmail.com">
 </a>
 <!--
   <a href="#" target="_blank">
