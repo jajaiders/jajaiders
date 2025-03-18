@@ -17,30 +17,49 @@
   </a>
 </p>
 
-## 🛠️ Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🛠 Languages and Tools:
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jajaiders&color=blue" alt="Profile Views"/>
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jajaiders&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jajaiders&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jajaiders&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+  <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajaiders&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajaiders&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Langs" width="48%" />
+
+</div>
 
 ## 🚀 Projects
 **Coming soon...** Exciting projects are on the way! Stay tuned.
